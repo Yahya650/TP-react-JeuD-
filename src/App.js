@@ -1,9 +1,9 @@
 import './App.css';
-import JeuDe from './Composants/JeuDe'
+import JeuDe from './components/JeuDe';
 function App() {
   return (
     <div className="App">
-      <JeuDe cache={5} />
+      <JeuDe numberOfWinner={5}/>
     </div>
   );
 }
