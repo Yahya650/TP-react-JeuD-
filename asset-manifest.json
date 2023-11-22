@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TP-react-JeuD-/static/css/main.db798329.css",
+    "main.js": "/TP-react-JeuD-/static/js/main.4022b881.js",
+    "static/js/787.6f484883.chunk.js": "/TP-react-JeuD-/static/js/787.6f484883.chunk.js",
+    "index.html": "/TP-react-JeuD-/index.html",
+    "main.db798329.css.map": "/TP-react-JeuD-/static/css/main.db798329.css.map",
+    "main.4022b881.js.map": "/TP-react-JeuD-/static/js/main.4022b881.js.map",
+    "787.6f484883.chunk.js.map": "/TP-react-JeuD-/static/js/787.6f484883.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.4022b881.js"
+  ]
+}
